@@ -5,4 +5,5 @@ git status
 git log
 git branch <branch-name>
 git merge <branch-name>
+git add .
 
